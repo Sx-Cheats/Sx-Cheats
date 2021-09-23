@@ -6,7 +6,8 @@
 > >#### - ⚡ Fun fact: I'm Lazy
 
 
-<img src ="https://github-readme-stats.vercel.app/api?username=Sx-Cheats&&show_icons=true&title_color=00B4E8&icon_color=00B4E8&text_color=FFDC00&bg_color=151519">
-<a href="https://github.com/Sx-Cheats">
+<img src ="https://github-readme-stats.vercel.app/api?username=Sx-Cheats&&show_icons=true&title_color=00FFC9&icon_color=01CFF3&text_color=6DE6FC&bg_color=0F2A2F">
+<a href="https://github.com/Sx-Cheats/">
 <img src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
+  
   </a>
