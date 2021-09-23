@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-> >#### - 🌱 I’m currently learning JAVA/C++/C#/CSS/HTML/JQUERY
+> >#### - 🌱 I’m currently learning JAVA/C++/C#/CSS/HTML/JQUERY and others ...
 > > #### - 📫 How to reach me: [Discord - $x-Cheats#9633]()
 > >#### - 😄 Pronouns: $x
 > >#### - ⚡ Fun fact: I'm Lazy
