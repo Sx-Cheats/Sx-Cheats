@@ -6,5 +6,5 @@
 > >#### - ⚡ Fun fact: I'm Lazy
 
 
-<img src ="https://github-readme-stats.vercel.app/api?username=Sx-Cheats&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<img src="https://c.tenor.com/IVCnKbtTeRQAAAAC/programming-computer.gif">
+<img src ="https://github-readme-stats.vercel.app/api?username=Sx-Cheats&&show_icons=true&title_color=00B4E8&icon_color=00B4E8&text_color=FFDC00&bg_color=151519">
+<img src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
