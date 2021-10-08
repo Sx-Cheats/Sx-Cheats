@@ -1,5 +1,5 @@
 
-  #  ***[EREN YEAGER] DON'T FORGET YOUR DREAMS, TATAKAE***
+
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sx-Cheats&theme=algolia&hide_border=true)](https://github.com/Sx-Cheats)
