@@ -13,3 +13,15 @@
 | ![](https://img.shields.io/badge/dffgddgfdfd-orange?style=for-the-badge)   | **Destroy your computer!**     |
 
 
+```flow
+st=>start: Login
+op=>operation: Login operation
+cond=>condition: Successful Yes or No?
+e=>end: To admin
+
+st->op->cond
+cond(yes)->e
+cond(no)->op
+```
+
+
