@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png" width="50">, I'm Sx-Cheats</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sx-cheats&label=Profile%20views&color=0e75b6&style=flat" alt="sx-cheats" /> </p>
-<p align="center"> <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="250" ></p>
+<p align="center"> <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="275" ></p>
 <p align="left">
 </p>
 
