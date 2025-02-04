@@ -123,6 +123,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Sx-Cheats/Sx-Cheats/output/snake.svg" alt="Snake animation" />
 
 ###
